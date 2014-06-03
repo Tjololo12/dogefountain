@@ -1,0 +1,12 @@
+Doge fountain bot!
+
+It's set up to use fido, but since fido is dead, it no longer works. I didn't feel like fixing it (not yet anyway), so I'm releasing it as public.
+
+The passwords for nickserv and the admin login are given in a file called userpass in the same directory. It is organized as so:
+nickservpass
+adminpass
+
+that's all. No other lines or anything, just the two, sparated by \n. The "admin" nick (the bot creator) is set via the variable in doge2.py:
+adminnick=""
+
+I don't know what else to put here.
